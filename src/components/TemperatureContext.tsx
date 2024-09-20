@@ -1,4 +1,3 @@
-// src/components/TemperatureContext.tsx
 import React, { createContext, useState, ReactNode } from 'react';
 
 // Define the context type

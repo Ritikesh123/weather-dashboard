@@ -1,4 +1,3 @@
-// src/components/Dashboard.tsx
 import React, { useState, useEffect } from 'react';
 import { Box, Button, Grid, Typography } from '@mui/material';
 import WeatherWidget from './WeatherWidget';

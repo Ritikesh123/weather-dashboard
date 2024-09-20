@@ -1,4 +1,3 @@
-// src/components/WeatherWidget.tsx
 import React, { useState, useEffect } from 'react';
 import { Card, CardContent, Typography, IconButton, Button } from '@mui/material';
 import CloseIcon from '@mui/icons-material/Close';
