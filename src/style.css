@@ -1,0 +1,13 @@
+
+/* src/styles.css */
+body {
+  background-color: #85cca0; /* Light navy blue */
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif; /* Optional, for a better look */
+}
+
+
+button {
+  cursor: pointer;
+}
